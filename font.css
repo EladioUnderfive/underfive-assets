@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'Longreach';
+  src: url('https://cdn.jsdelivr.net/gh/EladioUnderfive/underfive-assets/Longreach-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Montebello';
+  src: url('https://cdn.jsdelivr.net/gh/EladioUnderfive/underfive-assets/Montebello-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
